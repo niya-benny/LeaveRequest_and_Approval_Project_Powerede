@@ -25,7 +25,7 @@ A leave management solution built on the Microsoft Power Platform. Employees sub
 | `Leave Request & Approval – Project Write-up.pdf` | Detailed write-up, including the demo video link |
 
 ## Demo Video
-The demo video link is included in the project write-up PDF.
+The demo video link is included in the project write-up PDF. (select 1080p for full clarity)
 
 ## How to Import the Solution
 1. Go to [make.powerapps.com](https://make.powerapps.com) and select your environment.
